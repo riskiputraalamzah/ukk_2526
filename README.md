@@ -62,7 +62,7 @@ Get started with a sweet set of features including:
 
 Clone from Github 
 ```
-git clone https://github.com/codedthemes/mantis-free-bootstrap-admin-template.git
+git clone --branch template --single-branch https://github.com/riskiputraalamzah/ukk_2526.git template_mantis
 ```
 - Run ```Yarn```
 - Run ```Gulp```
