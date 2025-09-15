@@ -58,7 +58,7 @@ Aplikasi **Bengkel Mobil** adalah sistem berbasis web yang membantu mengelola se
 Gunakan perintah berikut untuk clone hanya branch ini saja:
 
 ```bash
-git clone --branch aplikasi_bengkel_mobil --single-branch https://github.com/riskiputraalamzah/ukk2526.git aplikasi_bengkel_mobil
+git clone --branch aplikasi_bengkel_mobil --single-branch https://github.com/riskiputraalamzah/ukk_2526.git aplikasi_bengkel_mobil
 ```
 
 Lalu masuk ke folder project:
